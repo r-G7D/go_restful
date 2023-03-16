@@ -1,0 +1,10 @@
+Steps :
+1. helper = utility
+3. domain and web
+4. database
+5. repository = query db 
+6. service = return response (web response) 
+7. handler = function
+8. route
+9. main
+10. db polling (optional)
